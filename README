@@ -1,0 +1,4 @@
+Author: Jennifer Minetree
+Date: May 27, 2015
+
+Summary: Program changes "s" to "z" in a string except if the the "s" is capitalized or when it's the first letter in a word.
